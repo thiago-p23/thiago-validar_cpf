@@ -1,4 +1,3 @@
-# thiago-validar_cpf
 # Apresentação do Programa – Validação de CPF
 ## Descrição
 
